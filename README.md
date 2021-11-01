@@ -1,1 +1,1 @@
-# telescope
+# easy2u
